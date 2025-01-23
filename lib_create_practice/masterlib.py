@@ -6,11 +6,12 @@ def sum_of_digits(num):
 
 def sum_to_single_digit(num):
     sum = 0
-    for digit in str(num):
-        sum += int(digit)
-    while 0 <= sum <= 9:
-        for digit in str(sum):
-            sum += int(digit)
+    while num > 0 or sum > 9:
+        if num == 0:
+            num = sum
+            sum = 0
+        sum += num % 10
+        num //= 10
     return sum
 
 
