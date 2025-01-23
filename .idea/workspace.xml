@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7035ed-d1a3-4feb-b9bf-2fb969fc654d" name="Changes" comment="creating python libraries start" />
+    <list default="true" id="1c7035ed-d1a3-4feb-b9bf-2fb969fc654d" name="Changes" comment="reorganise repo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib_create_practice/masterlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib_create_practice/masterlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib_create_practice/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib_create_practice/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +21,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sarahajbane"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sarahajbane/SWE_learning.git",
+    "accountId": "bab4f064-0037-46ae-98de-9e889ddcd39c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2s2lCyMYNnBHjofxC6dpb1ctdAG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,10 +54,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib_create_practice" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737661755820</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creating python libraries start">
+      <option name="closed" value="true" />
+      <created>1737662555441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737662555441</updated>
+    </task>
+    <task id="LOCAL-00004" summary="reorganise repo">
+      <option name="closed" value="true" />
+      <created>1737662885417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737662885417</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating python libraries start" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating python libraries start" />
+    <MESSAGE value="reorganise repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganise repo" />
   </component>
 </project>
