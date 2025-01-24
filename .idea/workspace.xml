@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7035ed-d1a3-4feb-b9bf-2fb969fc654d" name="Changes" comment="sum of digits to single digit">
+    <list default="true" id="1c7035ed-d1a3-4feb-b9bf-2fb969fc654d" name="Changes" comment="edits">
+      <change afterPath="$PROJECT_DIR$/lib_create_practice/magicnumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib_create_practice/numerology_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_create_practice/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib_create_practice/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sarahajbane"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sarahajbane&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sarahajbane/SWE_learning.git",
-    "accountId": "bab4f064-0037-46ae-98de-9e889ddcd39c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sarahajbane/SWE_learning.git&quot;,
+    &quot;accountId&quot;: &quot;bab4f064-0037-46ae-98de-9e889ddcd39c&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/lib_create_practice/masterlib.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -57,6 +58,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.masterlib.executor": "Run",
+    "Python.numerology_calculator.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -131,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737665373316</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="edits">
+      <option name="closed" value="true" />
+      <created>1737720654647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737720654647</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +160,7 @@
     <MESSAGE value="reorganise repo" />
     <MESSAGE value="start" />
     <MESSAGE value="sum of digits to single digit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of digits to single digit" />
+    <MESSAGE value="edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="edits" />
   </component>
 </project>
