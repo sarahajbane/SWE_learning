@@ -17,5 +17,3 @@ def sum_to_single_digit(num):
 
 def main():
     print("Welcome to masterlib library! Enjoy your usage!")
-
-main()
