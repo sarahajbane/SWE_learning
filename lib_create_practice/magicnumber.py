@@ -11,4 +11,5 @@ def lifepath(num):
 
 def main():
     print("Welcome to magicnumber! Calculate your personal numerology here!")
+
 main()
