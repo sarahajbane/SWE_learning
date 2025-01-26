@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7035ed-d1a3-4feb-b9bf-2fb969fc654d" name="Changes" comment="numerology start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_create_practice/magicnumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib_create_practice/magicnumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_create_practice/numerology_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib_create_practice/numerology_calculator.py" afterDir="false" />
-    </list>
+    <list default="true" id="1c7035ed-d1a3-4feb-b9bf-2fb969fc654d" name="Changes" comment="numerology edits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737734268724</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="numerology edits">
+      <option name="closed" value="true" />
+      <created>1737735691054</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735691054</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +174,7 @@
     <MESSAGE value="sum of digits to single digit" />
     <MESSAGE value="edits" />
     <MESSAGE value="numerology start" />
-    <option name="LAST_COMMIT_MESSAGE" value="numerology start" />
+    <MESSAGE value="numerology edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="numerology edits" />
   </component>
 </project>

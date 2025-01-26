@@ -1,4 +1,4 @@
-import magicnumber as mn
+from numerology import magicnumber as mn
 import datetime as dt
 import time
 
